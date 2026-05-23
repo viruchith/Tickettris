@@ -61,7 +61,7 @@ While proprietary ITSM platforms offer native AI add-ons, deep architectural eva
 
 The Ticketris framework is architected as an intermediary, decoupled state machine that coordinates communication between an abstract UI layer, an LLM orchestrator, a decentralized layer of Model Context Protocol servers, and the destination ITSM platform.
 
-![Ticketris High-Level Architecture Diagram](https://raw.githubusercontent.com/ticketris/framework/main/architecture.png)
+![Ticketris High-Level Architecture Diagram](architecture.png)
 
 ### 3.1 Core Architecture Components
 
